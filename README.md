@@ -15,4 +15,4 @@ While execution of Training.py, if there is an AssertionError, change the variab
 
 [101_ObjectCategories (131Mbytes)]: http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 
-###Made by apdy10
+### Made by apdy10
