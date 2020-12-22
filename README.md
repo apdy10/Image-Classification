@@ -5,9 +5,6 @@ While execution of Training.py, if there is an AssertionError, change the variab
 1. Install the modules required based on the type of implementation.
 2. Download the dataset you want to train and predict your system with. For sample data, you can download the [101_ObjectCategories (131Mbytes)].
 3. Construct the folder sub-structure required.
-### Keras
-
-[![Keras.png](https://s33.postimg.cc/llzbwcfsf/Keras.png)](https://postimg.cc/image/i2de6jd2j/)
 
 ### Tensorflow
 
